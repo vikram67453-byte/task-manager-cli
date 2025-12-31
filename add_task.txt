@@ -1,0 +1,6 @@
+Feature Name: Add Task
+Developer: Vikram
+
+Description:
+This feature allows the user to add a new task to the task manager.
+It demonstrates the use of a feature branch in GitHub.
